@@ -4,7 +4,7 @@
 
 A passionate entry-level web developer with a strong foundation in JavaScript. I love working on innovative web solutions and enjoy learning new things every day to grow both personally and professionally. Teamwork and collaboration excite me, and I’m eager to contribute my skills to create meaningful and scalable digital experiences.
 
-- 🖥️ Check out my portfolio here: Portfolio
+- 🖥️ Check out my portfolio here: [Portfolio](https://sherlycosta.github.io/Personal-Portfolio/) 
 - ✉️ You can connect with me via email at escrdc@gmail.com
 - 🧠 I'm learning Node js, Express js,Mongo Db
 
