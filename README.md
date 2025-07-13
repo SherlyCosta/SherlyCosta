@@ -1,7 +1,7 @@
 ## Hey 👋 I'm Erisa Sherly D'Costa 
 
-### Passionate Web Developer
+### Software Developer
 
-A passionate entry-level web developer with a strong foundation in JavaScript. I love working on innovative web solutions and enjoy learning new things every day to grow both personally and professionally. I’m eager to contribute my skills to create meaningful and scalable digital experiences.
+I am an entry-level web and software developer with a solid understanding of JavaScript. I enjoy creating web solutions and am always willing to learn and improve. I look forward to using my skills to build useful and scalable digital applications.
 
 - 🖥️ Check out my [Portfolio](https://sherlycosta.github.io/Portfolio/)
