@@ -8,8 +8,6 @@ A passionate entry-level web developer with a strong foundation in JavaScript. I
 - ✉️ You can connect with me via email at escrdc@gmail.com
 - 🧠 I'm learning Node js, Express js,Mongo Db
 
-💬 Fluent in English | Based in Mangalore, India
-
 ## My Skillset: 
 
 ### Languages
